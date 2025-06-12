@@ -71,7 +71,7 @@ src/
 
 🚀 Getting Started
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/Snsnehad/Newspaper-home-page.git
 2. Install dependencies : npm install
 3. Run the development server: npm run dev
 
